@@ -24,6 +24,7 @@ public class HelloWorld {
 		// 문자열 비교인 equals 처럼 비교해야한다.
 		// if (numbers.get(0) == numbers.get(1))
 		
+		System.out.println("git test");
 	}
 
 }
